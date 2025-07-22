@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blank-anvas-homes.com/sitemap.xml
